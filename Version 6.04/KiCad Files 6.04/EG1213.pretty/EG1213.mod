@@ -1,0 +1,86 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SW_EG1213
+$EndINDEX
+$MODULE SW_EG1213
+Po 0 0 0 15 00000000 00000000 ~~
+Li SW_EG1213
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0 0 1 0.9 0 0.05 N H 21 "SW_EG1213"
+T1 0 0 1 0.9 0 0.05 N H 21 "VAL**"
+DS -5 -2 5 -2 0.127 21
+DS 5 2 2 2 0.127 21
+DS 2 2 0 2 0.127 21
+DS 0 2 -2 2 0.127 21
+DS -2 2 -5 2 0.127 21
+DS -5 -2 -5 -1.3 0.127 21
+DS -5 1.3 -5 2 0.127 21
+DS 5 -2 5 -1.3 0.127 21
+DS 5 1.3 5 2 0.127 21
+DS -2 1.7 -2 2 0.127 24
+DS 2 1.7 -2 1.7 0.127 24
+DS 2 1.7 2 6.7 0.127 24
+DS 2 6.7 2 7 0.127 24
+DS 2 7 0 7 0.127 24
+DS 0 7 0 6.7 0.127 24
+DS 0 6.7 0 2 0.127 24
+DS -4.7 -2 -4.7 -1.7 0.127 24
+DS -4.7 -1.7 -5 -1.7 0.127 24
+DS -5 1.7 -4.7 1.7 0.127 24
+DS -4.7 1.7 -4.7 2 0.127 24
+DS 4.7 1.7 4.7 2 0.127 24
+DS 4.7 -2 4.7 -1.7 0.127 24
+DS 4.7 -1.7 5 -1.7 0.127 24
+DS 5 1.7 4.7 1.7 0.127 24
+DS -1.1 -2 -1.1 -1.5 0.127 24
+DS -1.1 -1.5 1.2 -1.5 0.127 24
+DS 1.2 -1.5 1.2 -2 0.127 24
+DS 0 6.7 2 6.7 0.127 24
+$PAD
+Sh "2" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "3" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "P$4" C 2.25 2.25 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -4.85 0
+$EndPAD
+$PAD
+Sh "P$5" C 2.25 2.25 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 4.85 0
+$EndPAD
+$EndMODULE SW_EG1213

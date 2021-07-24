@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ24092
+D BQ24092 1-Cell Lithium USB Battery Charger
+K LiPoly Charger USB
+F http://www.sparkfun.com/datasheets/Components/MAX1551-MAX1555-1.pdf
+$ENDCMP
+#
+$CMP CONN_01X02_2-3
+D Connector, single row, 01x02, pin header
+K connector
+$ENDCMP
+#
+$CMP F12ASUM13-W2
+D Dual Band WiFi Module (RTL8812AU)
+$ENDCMP
+#
+$CMP HC-R8812AU2
+D Dual Band WiFi Module (RTL8812AU)
+$ENDCMP
+#
+$CMP MAX1555
+D MAX1555 1-Cell Lithium USB Battery Charger
+K LiPoly Charger USB
+F http://www.sparkfun.com/datasheets/Components/MAX1551-MAX1555-1.pdf
+$ENDCMP
+#
+$CMP MIC2019
+D MIC2019
+K FET Switch
+$ENDCMP
+#
+$CMP MIC94091
+D MIC94091
+K FET Switch
+$ENDCMP
+#
+#End Doc Library
